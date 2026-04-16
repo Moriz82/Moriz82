@@ -2,4 +2,6 @@
 
 Student security researcher. Offensive tooling, web exploitation, CTFs.
 
-Python · Rust · TypeScript
+Arch btw :)
+
+Python · Rust · TypeScript · C  · The rest of the Fullstack Hell
