@@ -6,4 +6,4 @@ Arch btw :)
 
 Python · Rust · TypeScript · C  · The rest of the Fullstack Hell
 
-* Claude my BFF *
+# Claude my BFF
